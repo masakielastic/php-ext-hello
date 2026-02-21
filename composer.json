@@ -1,5 +1,5 @@
 {
-  "name": "masakielastic/ext-hello",
+  "name": "masakielastic/php-ext-hello",
   "description": "Hello World extension",
   "version": "0.1",
   "type": "php-ext",
