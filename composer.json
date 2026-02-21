@@ -1,0 +1,13 @@
+{
+  "name": "masakielastic/ext-hello",
+  "description": "Hello World extension",
+  "version": "0.1",
+  "type": "php-ext",
+  "license": "BSD-3-Clause",
+  "require": {
+    "php": ">=8.1"
+  },
+  "php-ext": {
+    "extension-name": "hello"
+  }
+}
