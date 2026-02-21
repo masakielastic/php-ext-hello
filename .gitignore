@@ -1,0 +1,28 @@
+# Autotools / phpize
+autom4te.cache/
+aclocal.m4
+configure
+config.h
+config.h.in
+config.log
+config.status
+libtool
+ltmain.sh
+Makefile
+Makefile.in
+
+# Build artifacts
+modules/
+*.so
+*.lo
+*.o
+*.la
+*.a
+
+# PIE / Composer build
+vendor/
+composer.lock
+
+# Test leftovers
+tests/*.diff
+tests/*.out
